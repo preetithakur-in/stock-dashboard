@@ -1,7 +1,3 @@
-Nice — I checked your notebook, so here’s a **customized README** based exactly on what you built 👇
-
----
-
 # 📊 Stock Dashboard
 
 A Python-based stock market dashboard built in Jupyter Notebook to fetch, analyze, and visualize stock data. This project uses real market data to explore trends, returns, and moving averages.
